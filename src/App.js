@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from 'react';
+import React, { Fragment, useState, useEffect } from 'react';
 import Formulario from './components/Formulario';
 import Cita from './components/Cita';
 
@@ -9,7 +9,11 @@ function App() {
 
   const [citas, guardarCitas] = useState([]);
 
+  // useEffect para realizar operaciones cuando state cambie
 
+  useEffect( () => {
+    console.log('listo');
+  }, [citas] );
 
 
   // Función que tome las citas actuales, y agregue la nueva
