@@ -1,3 +1,45 @@
+Proyecto 02 - Administración de pacientes - Curso React / Project 02 - Patient Management - React Course
+
+### Partes del proyecto
+
+1.  Creando proyecto y añadiendo CSS
+2.  Creando componente al formulario
+3.  Agregando campos al formulario
+4.  Creando STATE para las citas
+5.  Leyendo lo que el usuario escribe en los inputs
+6.  Evento para leer cuando cuando el usuario envíe el formulario
+7.  Validación del formulario en react
+8.  Asignación de ID para citas
+9.  Creando las citas
+10. Reiniciar el formulario
+11. Mostrando las citas
+12. Eliminando citas del STATE
+13. Mostrando un mensaje de forma condicional
+14. El hook useEffect
+15. Agregando LocalStorage
+16. Documentación con PropTypes
+-----------------------------------
+
+### Project parts
+
+1. Creating project and adding CSS
+2. Creating component to form
+3. Adding fields to the form
+4. Creating STATE for appointments
+5. Reading what the user writes in the inputs
+6. Event to read when when the user submits the form
+7. Validation of the form in react
+8. Assigning ID for appointments
+9. Creating the appointments
+10. Restart the form
+11. Displaying the citations
+12. Removing citations from STATE
+13. Showing a message conditionally
+14. The useEffect hook
+15. Adding LocalStorage
+16. Documentation with PropTypes
+------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
